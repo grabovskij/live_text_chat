@@ -1,0 +1,6 @@
+///
+
+enum DeviceType {
+  ios,
+  android;
+}

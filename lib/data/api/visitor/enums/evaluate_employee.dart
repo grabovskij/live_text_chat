@@ -1,0 +1,4 @@
+enum EvaluatingEmployee {
+  bad,
+  good;
+}
